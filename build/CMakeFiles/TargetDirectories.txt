@@ -1,0 +1,4 @@
+/media/project/2023/high_performance_opencv/build/CMakeFiles/rebuild_cache.dir
+/media/project/2023/high_performance_opencv/build/CMakeFiles/edit_cache.dir
+/media/project/2023/high_performance_opencv/build/CMakeFiles/connectedComponents.dir
+/media/project/2023/high_performance_opencv/build/CMakeFiles/binaryImage.dir
